@@ -1,5 +1,5 @@
 import styles from '@/app/ui/home.module.css';
-import { montserrat } from '@/app/ui/fonts';
+import { montserrat } from '@/pages/ui/fonts';
 import Image from 'next/image';
 import { Metadata } from 'next';
 
