@@ -1,5 +1,5 @@
 import styles from '@/app/ui/home.module.css';
-import { montserrat } from '@/pages/ui/fonts';
+import { montserrat } from '@/app/ui/fonts';
 import Image from 'next/image';
 import { Metadata } from 'next';
 
@@ -38,9 +38,9 @@ export default function Page() {
           <div className="justify-center items-end flex flex-1 flex-row">
             <div className="text-center">
           <Link
-              href="/books"
+              href="/contact"
               className={`${montserrat.className} flex items-center gap-5 self-start rounded-lg bg-yellow-900	px-6 py-3 text-sm font-medium text-white transition-colors hover:bg-yellow-600 md:text-base`}>
-              <span>Books</span>
+              <span>Contact</span>
           </Link>
             </div>
           </div>

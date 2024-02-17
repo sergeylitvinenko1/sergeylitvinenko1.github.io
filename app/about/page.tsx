@@ -1,12 +1,12 @@
 import styles from '@/app/ui/home.module.css';
-import { montserrat } from '@/pages/ui/fonts';
+import { montserrat } from '@/app/ui/fonts';
 import Image from 'next/image';
 import { Metadata } from 'next';
 
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: 'Sergey Litvinenko',
+  title: 'About',
 };
 
 export default function Page() {
@@ -19,7 +19,7 @@ export default function Page() {
             receiving Outstanding Achievement in Economics award. During his studies, he completed an off-cycle internship at the asset management firm Expat Capital 
             and participated in the 2020 CFA Institute Research Challenge. Upon graduation, he joined the Deal Advisory department of KPMG Ukraine to work on valuation projects and M&A transactions, 
             gaining valuable analytical and research skills. While obtaining his gradute degree, Sergey worked part-time at the Institutional Clients East Department of RBI AG in Vienna, 
-            supporting bank and non-bank FIs across wide range of services. In 2021, Sergey passed CFA Exam Level II and is3 planning to enroll for Level III in 2025.
+            supporting bank and non-bank FIs across wide range of services. In 2021, Sergey passed CFA Exam Level II and is planning to enroll for Level III in 2025.
         </h1>
         <div className="flex relative top-5 justify-center gap-4 grid-cols-3 grid-rows-1"> 
           <div className="justify-center items-end flex flex-1 flex-row">
