@@ -12,7 +12,7 @@ export default function RootLayout({
     <html lang="en">
 
       <Head>
-        <link rel='icon' href='/public/favicon.ico?'/>
+      <link rel="shortcut icon" type="image/x-icon" href="./favicon.ico"/>
       </Head>
 
       <body className={montserrat.className}>{children}</body>
