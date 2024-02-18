@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import "./globals.css";
 import { montserrat } from '@/app/ui/fonts';
+import Head from 'next/head';
 
 export default function RootLayout({
   children,
@@ -10,9 +11,9 @@ export default function RootLayout({
   return (
     <html lang="en">
 
-      <head>
+      <Head>
         <link rel='icon' href='/public/favicon.ico'/>
-      </head>
+      </Head>
 
       <body className={montserrat.className}>{children}</body>
     </html>
