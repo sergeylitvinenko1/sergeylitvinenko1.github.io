@@ -7,9 +7,6 @@ import Link from 'next/link';
 
 export const metadata: Metadata = {
   title: 'Sergey Litvinenko',
-  icons: {
-    icon: './public/icon.ico', // /public path
-  },
 };
 
 export default function Page() {
