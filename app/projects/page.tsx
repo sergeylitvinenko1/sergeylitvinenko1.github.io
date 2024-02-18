@@ -21,7 +21,7 @@ export default function Page() {
 
               <p className={`${montserrat.className} text-l md:leading-normal`}>
                   Advent of Code is an annual competition designed to practice solving programming puzzles. 
-                  I started in 2023 and aim to finishall challenges yet it is going pretty slowly at the moment. 
+                  I started in 2023 and aim to finish all challenges yet it is going pretty slowly at the moment. 
                   The idea is to change programming language for each year 
               </p>
           </div>
