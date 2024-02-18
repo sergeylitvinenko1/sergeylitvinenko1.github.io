@@ -28,7 +28,7 @@ export default function Page() {
         </a>
 
           {/* Second rectangle */}
-          <a href={"https://retc.luiss.it/"} target="_blank">
+          <a href={"https://retc.luiss.it/results/2022-results/"} target="_blank">
             <div className="relative w-[500px] h-40 text-white items-center justify-center cursor-pointer transition-transform transform hover:scale-110 mb-4">
               <p className={`${montserrat.className} text-xl text-center md:leading-normal`}>
                   Rotman Trading Competition
