@@ -54,7 +54,7 @@ export default function Page() {
                 During his studies, he completed an off-cycle internship at the asset management firm Expat Capital 
                 and participated in the 2020 CFA Institute Research Challenge. <br />
                 Upon graduation, he joined the Deal Advisory department of KPMG Ukraine to work on valuation projects and M&A transactions, 
-                gaining valuable analytical and research skills. While obtaining his graduate degree, Sergey worked part-time at the Institutional Clients East Department of RBI AG in Vienna, 
+                gaining valuable analytical and research skills. While obtaining his graduate degree, Sergey worked part-time at the Institutional Clients East department of RBI AG in Vienna, 
                 supporting bank and non-bank FIs across a wide range of services. <br />
                 In 2021, Sergey passed CFA Exam Level II and is planning to enroll for Level III in 2025.
               </p>
