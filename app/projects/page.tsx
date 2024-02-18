@@ -42,17 +42,19 @@ export default function Page() {
           </a>
 
           {/* Third rectangle */}
-          <div className="relative w-[500px] h-40 text-white items-center justify-center cursor-pointer transition-transform transform hover:scale-110 mb-4">
-            <p className={`${montserrat.className} text-xl text-center md:leading-normal`}>
-                Academic Paper Replication
-            </p>
+          <a href={"https://github.com/sergeylitvinenko1/vol-managed-portfolios"} target="_blank">
+            <div className="relative w-[500px] h-40 text-white items-center justify-center cursor-pointer transition-transform transform hover:scale-110 mb-4">
+              <p className={`${montserrat.className} text-xl text-center md:leading-normal`}>
+                  Academic Paper Replication
+              </p>
 
-            <p className={`${montserrat.className} text-l md:leading-normal`}>
-            In line with my genuine interest in algorithmic trading (both non- and directional), 
-            I replicate papers on various topics from time to time. I intend to publish my code as I go. Please visit my GitHub
-            to check for recent updates
-            </p>
-          </div>
+              <p className={`${montserrat.className} text-l md:leading-normal`}>
+              In line with my genuine interest in algorithmic trading (both non- and directional), 
+              I replicate papers on various topics from time to time. I intend to publish my code as I go. Please visit my GitHub
+              to check for recent updates
+              </p>
+            </div>
+          </a>
 
           {/* Back button */}
           <div className="flex relative top-5 justify-center gap-4 grid-cols-3 grid-rows-1"> 
