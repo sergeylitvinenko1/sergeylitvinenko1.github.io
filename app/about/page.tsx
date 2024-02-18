@@ -14,7 +14,7 @@ export default function Page() {
     <div className={styles.container}>
       <main className={styles.main}>
         <h1 className={`${montserrat.className} sm:text-xl text-lg max-w-3xl leading-relaxed`}>
-            Sergey Litvinenko is currently pursuing his master's degree in Quantitative Finance at the Vienna University of Economics and Business. 
+            Sergey Litvinenko is currently pursuing his master &apos s degree in Quantitative Finance at the Vienna University of Economics and Business. 
             Previously, he obtained his undergraduate double degree in Mathematics and Economics at the American University in Bulgaria, 
             receiving Outstanding Achievement in Economics award. During his studies, he completed an off-cycle internship at the asset management firm Expat Capital 
             and participated in the 2020 CFA Institute Research Challenge. Upon graduation, he joined the Deal Advisory department of KPMG Ukraine to work on valuation projects and M&A transactions, 
