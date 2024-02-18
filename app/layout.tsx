@@ -1,3 +1,4 @@
+import type { Metadata } from "next";
 import "./globals.css";
 import { montserrat } from '@/app/ui/fonts';
 
