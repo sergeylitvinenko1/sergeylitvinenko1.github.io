@@ -50,10 +50,13 @@ export default function Page() {
             <p className={`${montserrat.className} text-l md:leading-normal`}>
               Sergey Litvinenko is currently pursuing his M.Sc. degree in Quantitative Finance at the Vienna University of Economics and Business. 
               Previously, he obtained his undergraduate double degree in Mathematics and Economics at the American University in Bulgaria, 
-              receiving Outstanding Achievement in Economics award. During his studies, he completed an off-cycle internship at the asset management firm Expat Capital 
-              and participated in the 2020 CFA Institute Research Challenge. Upon graduation, he joined the Deal Advisory department of KPMG Ukraine to work on valuation projects and M&A transactions, 
+              receiving Outstanding Achievement in Economics award. <br />
+              During his studies, he completed an off-cycle internship at the asset management firm Expat Capital 
+              and participated in the 2020 CFA Institute Research Challenge. <br />
+              Upon graduation, he joined the Deal Advisory department of KPMG Ukraine to work on valuation projects and M&A transactions, 
               gaining valuable analytical and research skills. While obtaining his gradute degree, Sergey worked part-time at the Institutional Clients East Department of RBI AG in Vienna, 
-              supporting bank and non-bank FIs across wide range of services. In 2021, Sergey passed CFA Exam Level II and is planning to enroll for Level III in 2025.
+              supporting bank and non-bank FIs across wide range of services. <br />
+              In 2021, Sergey passed CFA Exam Level II and is planning to enroll for Level III in 2025.
             </p>
         </div>
 
