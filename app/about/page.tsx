@@ -51,7 +51,6 @@ export default function Page() {
                 Sergey Litvinenko is currently pursuing his M.Sc. degree in Quantitative Finance at the Vienna University of Economics and Business. 
                 Previously, he obtained his undergraduate double degree in Mathematics and Economics at the American University in Bulgaria, 
                 receiving Outstanding Achievement in Economics award. <br />
-                <br/>
                 During his studies, he completed an off-cycle internship at the asset management firm Expat Capital 
                 and participated in the 2020 CFA Institute Research Challenge. <br />
                 Upon graduation, he joined the Deal Advisory department of KPMG Ukraine to work on valuation projects and M&A transactions, 
